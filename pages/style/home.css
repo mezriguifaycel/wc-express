@@ -1,0 +1,41 @@
+#topnav {
+  width: 100%;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  background-color: Black;
+
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+}
+.nav-link {
+  display: inline-block;
+  width: 100px;
+  height: 55px;
+
+  color: White;
+
+  /* centering text */
+  text-align: center; /* horizontally */
+  line-height: 55px; /* vertically */
+
+  text-decoration: none;
+}
+.lorem {
+  font-size: 20px;
+  display: inline-block;
+  width: 1500px;
+  height: 555px;
+  border-color: blue;
+  border-radius: 5px;
+  color: rgb(40, 62, 100);
+  background-color: rgb(196, 212, 207);
+  /* centering text */
+  text-align: center; /* horizontally */
+  line-height: 55px; /* vertically */
+}
+h1 {
+  color: green;
+}
